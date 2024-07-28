@@ -16,11 +16,21 @@ pnpm install
 pnpm build && pnpm start
 ```
 
-3. ```npm login
+or you can add script on package.json that uses this command with a single alias.
 
-   ```
+3. Remotely login to npm registry
 
-4.```npm publish
+```bash
+npm login
+
+```
+
+4. Publish to npm registry
+
+```bash
+npm publish
+
+```
 
 ```
 
