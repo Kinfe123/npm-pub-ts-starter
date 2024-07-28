@@ -31,7 +31,3 @@ npm login
 npm publish
 
 ```
-
-```
-
-```
