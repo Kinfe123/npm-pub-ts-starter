@@ -16,6 +16,12 @@ pnpm install
 pnpm build && pnpm start
 ```
 
-3. npm login
+3. ```npm login
 
-4. npm publish
+   ```
+
+4.```npm publish
+
+```
+
+```
